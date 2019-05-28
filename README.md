@@ -1,6 +1,8 @@
 # AI-CyberSecurity
 Experimental Comparison of Two Optimisation Techniques
+  
   -Simulated Annealing
+  
   -Clonal Selection Algorithm
 
 In this project I created two optimisation techniques from scratch and evaluated them for a documented report. 
